@@ -6,15 +6,10 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 
 「 *LIST MENU* 」
 
-「 VVIPINDO BOT 」
-
 ╭════•›「 ${BotName} 」
 ├≽️ *.Menu*
 ├ _Menampilkan list menu_
-├≽️ *.Group* 
-├ https://chat.whatsapp.com/D2o2iSgtRtpFXD2PWfJBoj
 ├≽️ *.Owner*
-├ _Info Admin bot_
 ╰═══════════════
 
 ╭════•›「 GRUP 」
@@ -186,9 +181,6 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├ _Ex = .Fb http://www.face..._
 ├≽️ *.Ig link*
 ├ _Ex = .Ig http://www.inst.._
-╰═══════════════
-
-*Follow Me On Instagram*
-${instagram}`
+╰═══════════════`
 
 }
